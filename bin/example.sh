@@ -17,6 +17,5 @@ module load git
 ### LOAD ENVIRONMENT
 #source activate ___
 
-
 ### SCRIPT
 #Rscript name.R
