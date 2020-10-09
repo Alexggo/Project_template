@@ -42,9 +42,9 @@ Lists
 Links
 ---------------------------
 
-A [link](http://example.com).
+A [link](http://google.com).
 
-An image: ![image](img.jpg)
+An image: ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDNA&psig=AOvVaw0sUP2K8ksN5FdRVbE97hdW&ust=1602300826486000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj9je_JpuwCFQAAAAAdAAAAABAD)
 
 
 Code
