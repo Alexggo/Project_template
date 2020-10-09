@@ -1,5 +1,5 @@
 
-Headers
+Examples in Markdown
 ---------------------------
 
 # Header 1
@@ -11,19 +11,20 @@ Headers
 Styling
 ---------------------------
 
-*Emphasize*  _emphasize_
+*Italics*  _italics_
 
-**Strong**  __strong__
+**Bold**  __bold__
 
 ==Marked text.==
 
-~~Mistaken text.~~
+~~Crossed text.~~
+
 
 > Quoted text.
 
-H~2~O is a liquid.
+H<sub>2<sub>O is a liquid.
 
-2^10^ is 1024.
+e<sup>10<sup>.
 
 Lists
 ---------------------------
@@ -44,9 +45,8 @@ Links
 
 A [link](http://example.com).
 
-An image: ![Alt](img.jpg)
+An image: ![image](img.jpg)
 
-A sized image: ![Alt](img.jpg =60x50)
 
 Code
 ---------------------------
