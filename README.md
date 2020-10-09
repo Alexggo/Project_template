@@ -44,7 +44,7 @@ Links
 
 A [link](http://google.com).
 
-An image: ![image](https://upload.wikimedia.org/wikipedia/commons/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png=60x50)
+An image: ![image](https://upload.wikimedia.org/wikipedia/commons/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png =60x50)
 
 
 Code
