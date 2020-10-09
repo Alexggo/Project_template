@@ -1,4 +1,4 @@
-Examples in Markdown
+Examples in Markdown for GitHub.
 ---------------------------
 
 # Header 1
