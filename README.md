@@ -44,7 +44,7 @@ Links
 
 A [link](http://google.com).
 
-An image: ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDNA&psig=AOvVaw0sUP2K8ksN5FdRVbE97hdW&ust=1602300826486000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj9je_JpuwCFQAAAAAdAAAAABAD)
+An image: ![image](https://upload.wikimedia.org/wikipedia/commons/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png)
 
 
 Code
