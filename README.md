@@ -42,9 +42,9 @@ Lists
 Links
 ---------------------------
 
-A [link](http://google.com).
+A [link](http://google.com) to google.
 
-An image: ![image](https://upload.wikimedia.org/wikipedia/commons/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png =60x50)
+An image: ![image](https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg)
 
 
 Code
@@ -85,7 +85,7 @@ Pipe | $1
 | centered | right-aligned | 
 
 
-LaTeX math
+LaTeX math (it doesn't render on GitHub)
 ---------------------------
 
 Inline math $\frac{2}{3}$
