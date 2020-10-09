@@ -1,4 +1,3 @@
-
 Examples in Markdown
 ---------------------------
 
@@ -22,7 +21,7 @@ Styling
 
 > Quoted text.
 
-H<sub>2<sub>O is a liquid.
+H<sub>2<sub> O is a liquid.
 
 e<sup>10<sup>.
 
@@ -85,25 +84,6 @@ Pipe | $1
 |:--------:| -------------:|
 | centered | right-aligned | 
 
-Definition lists
----------------------------
-
-Markdown
-:  Text-to-HTML conversion tool Authors
-:  John
-:  Luke Footnotes
----------------------------
-
-Some text with a footnote.[^1]
-
-[^1]: The footnote.
-
-Abbreviations
----------------------------
-
-Markdown converts text to HTML.
-
-*[HTML]: HyperText Markup Language
 
 LaTeX math
 ---------------------------
