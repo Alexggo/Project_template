@@ -108,17 +108,7 @@ Markdown converts text to HTML.
 LaTeX math
 ---------------------------
 
-The Gamma function satisfying $\Gamma(n) = (n-1)!\quad\forall
-n\in\mathbb N$ is via the Euler integral
+Inline math $\frac{2}{3}$
 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-
-
-<h1 id="readme">README</h1>
-<p>Alejandro Gil-Gomez<br>
-4/24/2020</p>
-<p>This is an example.</p>
+$$x_{1,2} = {-b\pm\sqrt{b^2 - 4ac} \over 2a}$$
 
