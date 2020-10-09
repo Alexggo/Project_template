@@ -44,7 +44,7 @@ Links
 
 A [link](http://google.com) to google.
 
-An image: ![image](https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg)
+An image: ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png)
 
 
 Code
